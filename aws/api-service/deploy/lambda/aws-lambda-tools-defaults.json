@@ -1,0 +1,10 @@
+{
+  "profile": "",
+  "region": "us-east-1",
+  "configuration": "Release",
+  "function-runtime": "dotnet10",
+  "function-handler": "APIService",
+  "function-memory-size": 512,
+  "function-timeout": 30,
+  "function-architecture": "x86_64"
+}
